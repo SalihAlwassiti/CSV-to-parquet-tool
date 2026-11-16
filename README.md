@@ -1,4 +1,4 @@
-# CSV to Parquet Studio
+# CSV to Parquet Tool
 
 A lightweight desktop GUI for streaming large `.csv` files, folders, `.zip`, and `.tar.gz` archives into compressed Apache Parquet (`.parquet`) files—with visual schema control, strict type enforcement, and constant-memory streaming.
 
